@@ -1,0 +1,6 @@
+D:\vs code c#\labtask_1\labtask_1\bin\Debug\labtask_1.exe.config
+D:\vs code c#\labtask_1\labtask_1\obj\Debug\labtask_1.csprojResolveAssemblyReference.cache
+D:\vs code c#\labtask_1\labtask_1\bin\Debug\labtask_1.exe
+D:\vs code c#\labtask_1\labtask_1\bin\Debug\labtask_1.pdb
+D:\vs code c#\labtask_1\labtask_1\obj\Debug\labtask_1.exe
+D:\vs code c#\labtask_1\labtask_1\obj\Debug\labtask_1.pdb

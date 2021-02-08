@@ -1,0 +1,6 @@
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\bin\Debug\labtask1_ques8.exe.config
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\bin\Debug\labtask1_ques8.exe
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\bin\Debug\labtask1_ques8.pdb
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\obj\Debug\labtask1_ques8.csprojResolveAssemblyReference.cache
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\obj\Debug\labtask1_ques8.exe
+D:\lab_task_Cs_mid\labtask1_ques8\labtask1_ques8\obj\Debug\labtask1_ques8.pdb

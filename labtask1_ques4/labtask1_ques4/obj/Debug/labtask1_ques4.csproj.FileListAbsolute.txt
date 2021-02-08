@@ -1,0 +1,6 @@
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\bin\Debug\labtask1_ques4.exe.config
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\obj\Debug\labtask1_ques4.csprojResolveAssemblyReference.cache
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\bin\Debug\labtask1_ques4.exe
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\bin\Debug\labtask1_ques4.pdb
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\obj\Debug\labtask1_ques4.exe
+D:\lab_task_Cs_mid\labtask1_ques4\labtask1_ques4\obj\Debug\labtask1_ques4.pdb
